@@ -1,4 +1,4 @@
-| Book | Authors | Chapter 
+| Material | Authors | Chapter 
 | :-:  | :-:     | :-:
 | Computer Networking A Top-Down Approach, 6th Edition | Jim Kurose, Keith Ross | 1
 
