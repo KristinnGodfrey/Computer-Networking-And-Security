@@ -4,7 +4,7 @@
 
 # Computer Networks and the Internet
 
-### Chapter 1 contents
+### Contents
 * What Is the internet?
 * The Network Edge
 * The Network Core
