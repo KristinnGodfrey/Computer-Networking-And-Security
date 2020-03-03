@@ -138,15 +138,15 @@ Suppose Alice and Bob are sending packets to each other over a computer network.
 Suppose users share a 100 Mbps link. Also suppose each user transmits continuously at 10 Mbps when transmitting, but each user transmits only 10 percent of the time.
 <sub>Chapter 1.3</sub>
 
->	A) When circuit switching is used, how many users can be supported?
+A) When circuit switching is used, how many users can be supported?
 >		100Mbps divided to users that use up 10MBp/s each. 10 users.
->	B) For the remainder of this problem, suppose packet switching is used. Why will there be essentially no queuing delay before the link if ten or fewer users transmit at the same time?
+B) For the remainder of this problem, suppose packet switching is used. Why will there be essentially no queuing delay before the link if ten or fewer users transmit at the same time?
 >		Since each user requires 10Mbps when transmitting, if ten or fewer users transmit simultaneously, a maximum of 100Mbps will be required. Since the available bandwidth of the shared link is 100Mbps, there will be no queuing delay before the link.
->	C) Why will there be a queuing delay if 15 users transmit at the same time?
+C) Why will there be a queuing delay if 15 users transmit at the same time?
 >		Same as b. We'll need a 150 Mb/s link, so we will have some delay on our network.
->	D) Find the probability that a given user is transmitting.
+D) Find the probability that a given user is transmitting.
 >		Out of common probability knowledge. Each user will be assumed to be using 10% of the time, which is probably highly inaccurate but its the best guess.
->	E) Suppose now there are 15 users. Find the probability that at any given time, all 15 users are transmitting simultaneously
+
 		
 
 
