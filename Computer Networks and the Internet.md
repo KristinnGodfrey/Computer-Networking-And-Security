@@ -1,9 +1,8 @@
 ---
-attachments: [Clipboard_2020-03-03-22-04-42.png, Clipboard_2020-03-03-22-04-46.png, Clipboard_2020-03-03-22-04-54.png, Clipboard_2020-03-03-22-06-55.png, Clipboard_2020-03-03-22-07-49.png, Clipboard_2020-03-03-22-11-37.png, Clipboard_2020-03-03-22-17-29.png]
-tags: [Networking]
-title: Computer Networks and the Internet
-created: '2020-03-03T22:02:56.367Z'
-modified: '2020-03-03T22:41:22.647Z'
+tags: Networking
+book: Computer Networking: A Top-down Approach
+author: Jim Kurose, Keith Ross
+school course: University of Iceland, Tölvunet og öryggi 2019
 ---
 
 # Computer Networks and the Internet
