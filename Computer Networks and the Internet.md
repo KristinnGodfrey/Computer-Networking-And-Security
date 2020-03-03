@@ -1,7 +1,6 @@
 ---
 book: Computer Networking A Top-Down Approach, 6th Edition
 book-authors: Jim Kurose, Keith Ross
-school-course: University of Iceland, Tölvunet og öryggi 2019
 ---
 
 # Computer Networks and the Internet
