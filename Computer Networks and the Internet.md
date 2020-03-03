@@ -1,8 +1,7 @@
 ---
-tags: Networking
-book: Computer Networking: A Top-down Approach
-author: Jim Kurose, Keith Ross
-school course: University of Iceland, Tölvunet og öryggi 2019
+book: Computer Networking A Top-Down Approach, 6th Edition
+book-authors: Jim Kurose, Keith Ross
+school-course: University of Iceland, Tölvunet og öryggi 2019
 ---
 
 # Computer Networks and the Internet
@@ -148,7 +147,6 @@ Suppose users share a 100 Mbps link. Also suppose each user transmits continuous
 >	D) Find the probability that a given user is transmitting.
 >		Out of common probability knowledge. Each user will be assumed to be using 10% of the time, which is probably highly inaccurate but its the best guess.
 >	E) Suppose now there are 15 users. Find the probability that at any given time, all 15 users are transmitting simultaneously
->		Stærðfræðimynstur knowledge: 
 		
 
 
