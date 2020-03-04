@@ -6,7 +6,7 @@
 | Computer Networking A Top-Down Approach, 6th Edition | Jim Kurose, Keith Ross | 2
 
 
-Application layer is the fifth layer; think of it as an layer for apps. 
+Application layer is the fifth layer; think of it as an layer on the app level. 
 
 examples given:
 * web app
