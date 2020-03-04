@@ -9,7 +9,7 @@
 
 [Chapter 1, Computer Networks and the Internet](Computer%20Networks%20and%20the%20Internet.md)
 
-[Chapter 2, Application Layer](Application%20Layer.md) TODO
+[Chapter 2, Application Layer](Application%20Layer.md)
 
 [Chapter 3, Transport Layer](Transport%20Layer.md) TODO
 
